@@ -17,9 +17,10 @@ div {
   border: 1px solid black;
 }
 
-.picture-screen {
+.picture-quiz {
   display: flex;
-  justify-content: center;
+  flex-direction: column;
+  align-items: center;
 }
 
 .alternatives-quiz {
